@@ -6,7 +6,7 @@ djangorestframework==3.9.1
 fields==5.0.0
 imutils==0.4.6
 jsonschema==2.6.0
-numpy==1.14.1
+numpy==1.22.0
 parse==1.8.4
 requests==2.20.0
 requests-oauthlib==1.0.0
